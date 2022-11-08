@@ -1,0 +1,125 @@
+.img {
+    background: url(/10.6.22/Images/pexels-photo-248515.png) no-repeat left;
+    background-size: 100%;
+    width: 100%;
+    height: 15cm;
+}
+
+.div1 {
+    float: left;
+    width: 100%;
+    margin-top: 2in;
+}
+
+.div2 {
+    display: flex;
+    margin-left: 3in;
+    margin-right: 3in;
+}
+
+#p1size {
+    font-size: larger;
+}
+
+.bar {
+    height: 4cm;
+    background-color: rgb(49, 49, 49);
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(55, 55, 55);
+}
+
+.div2head {
+    text-align: center;
+}
+
+#flex {
+    display: flex;
+    justify-content: center;
+}
+
+#span1 {
+    display: inline;
+    padding: 10px;
+    height: 2.5cm;
+}
+
+.rectangle {
+    width: 13%;
+    height: fit-content;
+    float: left;
+    background-color: rgb(87, 87, 87);
+    margin-left: 20px;
+    text-align: center;
+}
+
+.push {
+    display: flex;
+    justify-content: center;
+    height: 10cm;
+}
+
+.bar2 {
+    height: 3cm;
+    float: left;
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    width: 100%;
+    padding-top: .7cm;
+}
+
+body {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#butt {
+    display: flex;
+    justify-content: center;
+    padding-top: .8cm;
+}
+
+.half1 {
+    background-color: rgb(0, 90, 245);
+}
+
+.half1,
+.half2 {
+    width: 50%;
+    float: left;
+    text-align: center;
+    justify-content: center;
+    height: 5cm;
+}
+
+.half2 {
+    background-color: rgb(96, 96, 96);
+}
+
+.half-padding {
+    margin: 2cm;
+}
+
+.bottom1,
+.bottom2 {
+    width: 50%;
+    float: left;
+    text-align: center;
+    justify-content: center;
+    height: 1.2cm;
+    background-color: black;
+}
+
+.half-padding2 {
+    margin: .5cm;
+}
